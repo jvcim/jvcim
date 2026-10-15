@@ -2,22 +2,24 @@
 
 **Quality Assurance · Manual & Automated Testing**
 
-Atuo em QA na **LongView Tecnologia**, com testes de aplicações web e mobile, análise de critérios de aceite, documentação de defeitos e automação. Graduando em **Análise e Desenvolvimento de Sistemas na UNIVALI**.
+Estagiário de QA na **LongView Tecnologia**, com atuação em testes web e mobile, análise de critérios de aceite, documentação de defeitos e automação. Graduando em **Análise e Desenvolvimento de Sistemas — UNIVALI**.
 
-### Stack & práticas
+### Competências
 
-| Qualidade | Ferramentas |
+| Área | Práticas e ferramentas |
 | --- | --- |
-| Testes funcionais, exploratórios e de regressão | Playwright · Robot Framework · SeleniumLibrary |
-| Validação de APIs e investigação de falhas | Postman |
-| Critérios de aceite, bugs e rastreabilidade | Jira |
-| Fundamentos de desenvolvimento e automação | JavaScript · Git · TypeScript (em aprendizado) |
+| Testes | Funcionais · exploratórios · regressão · web e mobile |
+| Automação | Playwright · Robot Framework · SeleniumLibrary |
+| APIs e gestão de defeitos | Postman · Jira · evidências e rastreabilidade |
+| Desenvolvimento | JavaScript · Git · TypeScript (em aprendizado) |
 
-### Projetos selecionados
+### Projetos
 
-**QA E2E — SauceDemo** · *Em desenvolvimento*  
-Suíte com Playwright e TypeScript para login, carrinho e checkout. Código e resultados serão publicados após validação dos testes e da pipeline.
+- **[Conversor de Moedas](https://github.com/jvcim/Convert-template)** — Aplicação em JavaScript com manipulação de formulários e validações. [Demonstração](https://jvcim.github.io/Convert-template/).
+- **[Refund](https://github.com/jvcim/refund-template)** — Aplicação para lançamento e organização de despesas, com cálculos e manipulação dinâmica de dados. [Demonstração](https://jvcim.github.io/refund-template/).
+
+**Em construção:** suíte E2E para [SauceDemo](https://www.saucedemo.com/) com **Playwright + TypeScript**. Código, evidências e CI serão publicados após validação da execução.
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/jvcim) · [GitHub](https://github.com/jvcim?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/jvcim) · [Repositórios](https://github.com/jvcim?tab=repositories)
